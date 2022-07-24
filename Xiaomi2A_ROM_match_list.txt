@@ -1,19 +1,29 @@
 指定官方网址http://www.miui.com/shuaji-105.html
+
 小米手机2A最新版线刷Fastboot开发版完整包点击下载(大小:382M，1a57235c1aac2d2db8f47465f1bcf156)
 http://bigota.d.miui.com/3.6.14/miui_MiTwoA_3.6.14_fastboot_4.1_xk0p7f4r2o.exe
+
 小米手机2A最新版卡刷开发版完整包点击下载(大小:251M，37e42824198b6296256c45652265ac3b)
 http://bigota.d.miui.com/3.6.14/miui_MI2A_3.6.14_37e4282419_4.1.zip
+
 小米手机2A-Android版本线刷Fastboot完整包点击下载(大小:150M，252c8d9547249362ab995285692b3f85)
 http://bigota.d.miui.com/QBF31/miui_MiTwoA_QBF31_fastboot_4.1_epshnz8d0o.exe
+
 小米手机2A-Android版本卡刷完整包点击下载(大小:160M，798c4a30ae3504fb43d81796071055b7)
 http://bigota.d.miui.com/QBF31/miui_NativeMI2A_QBF31_798c4a30ae_4.1.zip
+
 MIUI最新开发版线刷Fastboot完整包点击下载
 http://bigota.d.miui.com/4.11.14/taurus_images_4.11.14_4.1_cn_1cb7109b12.tgz
+
 MIUI最新特别版线刷Fastboot完整包点击下载 miui6
 http://bigota.d.miui.com/4.11.14/taurus_beta_images_4.11.14_4.4_cn_6f3f0d4b80.tgz
+
 MIUI最新特别版线刷Fastboot完整包点击下载 miui7
 http://bigota.d.miui.com/5.5.15/taurus_beta_images_5.5.15_4.4_cn_5902ec5eca.tgz
 
+基于Android5.1
 http://bigota.d.miui.com/6.3.3/miui_MI2A_6.3.3_25e0e2fb42_5.1.zip
+
 http://bigota.d.miui.com/6.3.31/miui_MI2ABeta_6.3.31_88eb2b1e2f_4.4.zip
+
 http://bigota.d.miui.com/6.3.31/taurus_beta_images_6.3.31_20160307.0000.16_4.4_cn_f167b635e6.tgz
