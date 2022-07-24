@@ -17,9 +17,3 @@ http://bigota.d.miui.com/5.5.15/taurus_beta_images_5.5.15_4.4_cn_5902ec5eca.tgz
 http://bigota.d.miui.com/6.3.3/miui_MI2A_6.3.3_25e0e2fb42_5.1.zip
 http://bigota.d.miui.com/6.3.31/miui_MI2ABeta_6.3.31_88eb2b1e2f_4.4.zip
 http://bigota.d.miui.com/6.3.31/taurus_beta_images_6.3.31_20160307.0000.16_4.4_cn_f167b635e6.tgz
-
-设备1017e3fa
-imei 860954026800653
-sn 171600765525 103
-
-2v3805D00145
